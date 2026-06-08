@@ -1,5 +1,5 @@
 
-👨‍💻 Mais de três anos de atuação como desenvolvedor de sistemas.  
+👨‍💻 desenvolvedor de sistemas.  
 🎓 Formação em andamento em Ciência da Computação pela [Estácio](https://www.estacio.br).  
 🚀 Atualmente atuando como freelancer, responsável pela gestão contínua de clientes ativos, garantindo suporte, fidelização e entrega de soluções eficazes que agregam valor real aos negócios.
 
